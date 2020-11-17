@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Minha intenção aqui é postar todos os meus projetos web desde o início de meu aprendizado para que seja possível visualizar a minha evolução e estudo contínuo.
+
 <!--
 **TahiaPassos/TahiaPassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
